@@ -1,0 +1,10 @@
+name: template-env
+channels:
+  - defaults
+  - rocketce
+dependencies:
+  - python=3.9.16
+  - gitpython=3.1.37
+  - mlflow=2.6.0
+  - opencv=4.6.0
+  - torchvision-base=0.15.2=*cuda11.8*
